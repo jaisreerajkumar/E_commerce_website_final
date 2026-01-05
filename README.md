@@ -170,23 +170,3 @@ npm run dev
 * Backend API deployed using **Vercel**
 
 Independent deployments ensure better scalability and maintenance.
-
----
-
-## 👨‍💻 Author
-
-**Indresh Harshan**
-GitHub: [https://github.com/indreshharshan](https://github.com/indreshharshan)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Conclusion
-
-**Shopever is a complete full-stack e-commerce solution built with industry-standard practices.**
-The project demonstrates strong skills in frontend development, backend API design, database management, authentication, and deployment.
