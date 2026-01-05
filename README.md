@@ -1,13 +1,13 @@
-# 🛒 Shopever – Full Stack E-Commerce Web Application
+Full Stack E-Commerce Web Application
 
-Shopever is a fully functional full-stack e-commerce web application developed to deliver a seamless online shopping experience for users and a powerful management system for administrators.
+Full-stack e-commerce web application developed to deliver a seamless online shopping experience for users and a powerful management system for administrators.
 The application is designed using modern web technologies with a clear separation between user interface, admin dashboard, and backend services to ensure scalability, security, and maintainability.
 
 ---
 
 ## 📖 Project Description
 
-The Shopever platform enables customers to browse products, manage carts, and place orders through an intuitive user interface.
+This platform enables customers to browse products, manage carts, and place orders through an intuitive user interface.
 An independent admin panel is provided for administrators to manage products, monitor orders, and maintain overall system control.
 The backend API serves as the core of the application, handling authentication, business logic, and database communication.
 
@@ -46,9 +46,9 @@ This project follows real-world industry practices and demonstrates end-to-end f
 
 ---
 
-## ✨ Key Features
+##Key Features
 
-### 👤 User Features
+###User Features
 
 * User registration and login
 * Secure authentication using JWT
@@ -58,7 +58,7 @@ This project follows real-world industry practices and demonstrates end-to-end f
 * View order history
 * User session management
 
-### 🛠️ Admin Features
+###Admin Features
 
 * Admin authentication
 * Dashboard overview
@@ -70,7 +70,7 @@ This project follows real-world industry practices and demonstrates end-to-end f
 
 ---
 
-## 🔄 System Workflow
+##System Workflow
 
 1. User accesses the frontend application
 2. Frontend sends HTTP requests to backend APIs
@@ -78,15 +78,6 @@ This project follows real-world industry practices and demonstrates end-to-end f
 4. Data is stored and retrieved from the database
 5. Admin panel communicates with secured admin APIs
 6. Changes are reflected in real time across the application
-
----
-
-## 🔗 Live Application Links
-
-* **User Frontend:** [https://shopever-frontend.vercel.app](https://shopever-frontend.vercel.app)
-* **Admin Dashboard:** [https://shopever-admin.vercel.app](https://shopever-admin.vercel.app)
-* **Backend API:** [https://shopever-backend.vercel.app](https://shopever-backend.vercel.app)
-
 ---
 
 ## 🗂️ Project Architecture
