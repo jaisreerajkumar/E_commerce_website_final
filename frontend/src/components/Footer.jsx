@@ -20,6 +20,7 @@ const Footer = () => {
                 <li>About us</li>
                 <li>Delivery</li>
                 <li>Privacy policy</li>
+                <li>Terms & Conditions</li>
             </ul>
         </div>
 
