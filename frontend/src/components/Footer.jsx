@@ -21,13 +21,14 @@ const Footer = () => {
                 <li>Delivery</li>
                 <li>Privacy policy</li>
                 <li>Terms & Conditions</li>
+                <li>Contact us</li>
             </ul>
         </div>
 
         <div>
             <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
             <ul className='flex flex-col gap-1 text-gray-600'>
-                <li>+1-212-456-7890</li>
+                <li>+52-212-456-7890</li>
                 <li>contact@Shopeveryou.com</li>
             </ul>
         </div>
