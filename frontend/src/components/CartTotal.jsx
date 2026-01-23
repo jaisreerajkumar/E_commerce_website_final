@@ -17,6 +17,7 @@ const CartTotal = () => {
                 <p>Subtotal</p>
                 <p>{currency} {getCartAmount()}.00</p>
             </div>
+            <div>Actually data has been loaded</div>
             <hr />
             <div className='flex justify-between'>
                 <p>Shipping Fee</p>
