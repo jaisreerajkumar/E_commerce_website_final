@@ -159,5 +159,3 @@ npm run dev
 * Frontend deployed using **Vercel**
 * Admin panel deployed using **Vercel**
 * Backend API deployed using **Vercel**
-
-Independent deployments ensure better scalability and maintenance.
