@@ -1,4 +1,4 @@
-Full Stack E-Commerce Web Application
+# Full Stack E-Commerce Web Application
 
 Full-stack e-commerce web application developed to deliver a seamless online shopping experience for users and a powerful management system for administrators.
 The application is designed using modern web technologies with a clear separation between user interface, admin dashboard, and backend services to ensure scalability, security, and maintainability.
@@ -46,9 +46,9 @@ This project follows real-world industry practices and demonstrates end-to-end f
 
 ---
 
-##Key Features
+## Key Features
 
-###User Features
+### User Features
 
 * User registration and login
 * Secure authentication using JWT
@@ -58,7 +58,7 @@ This project follows real-world industry practices and demonstrates end-to-end f
 * View order history
 * User session management
 
-###Admin Features
+### Admin Features
 
 * Admin authentication
 * Dashboard overview
@@ -70,7 +70,7 @@ This project follows real-world industry practices and demonstrates end-to-end f
 
 ---
 
-##System Workflow
+## System Workflow
 
 1. User accesses the frontend application
 2. Frontend sends HTTP requests to backend APIs
