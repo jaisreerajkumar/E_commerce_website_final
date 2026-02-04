@@ -100,7 +100,6 @@ Each module is independently developed and deployed, ensuring modularity and sca
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/indreshharshan/E-Commerce-Web-Site.git
 cd E-Commerce-Web-Site
 ```
 
